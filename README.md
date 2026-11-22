@@ -52,4 +52,4 @@ I build LLM systems and measure whether they actually work: multi-agent pipeline
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/people/?keywords=Mouheb%20Bezi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/search/results/people/?keywords=Mouheb%20Bezi](https://www.linkedin.com/in/mouheb-bezi-0361b6364/))
